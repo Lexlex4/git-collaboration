@@ -3,3 +3,4 @@ green apple
 red apple
 mouldy apple
 blue apple
+pink apple
