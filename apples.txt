@@ -1,1 +1,4 @@
 granny smith
+green apple
+red apple
+mouldy apple
